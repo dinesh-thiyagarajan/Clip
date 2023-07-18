@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Clip"
 include(":app")
- 
+include(":Clip")
